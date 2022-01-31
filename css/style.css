@@ -44,6 +44,7 @@ body {
   justify-content: space-between;
 } */
 
-/* .visually-hidden {
-  position: relative;
-} */
+.visually-hidden {
+  position: fixed;
+  transform: scale(0);
+}
